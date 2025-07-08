@@ -1,0 +1,18 @@
+body{
+  font-family: 'IBM Plex Mono', monospace;
+}
+/* For WebKit browsers (Chrome, Edge, Safari) */
+/* Hide scrollbar but keep scroll functionality */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color:white;
+  border-radius: 20px;
+}
