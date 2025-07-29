@@ -45,7 +45,7 @@ export default function Home() {
         <MyProjectsSection />
       </div>
 
-      <div className="">
+      <div id="contact">
         <Form />
       </div>
     </>

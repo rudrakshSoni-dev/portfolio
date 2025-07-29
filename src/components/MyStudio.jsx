@@ -13,8 +13,8 @@ export default function MyStudio({ image }) {
       </div>
 
       <p className="text-left text-muted text-[16px] leading-tight">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum perferendis delectus nulla aliquid voluptatibus rerum similique saepe error cum veniam.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, beatae! Incidunt officia laborum adipisci eveniet voluptatum blanditiis sed reprehenderit enim.
+      Hey I am a software developer, I love making useful tools with my set of skills.
+      Apart from a Software Developer I am pursuing Electronics Eng. in my college which gives me a well rounded portfolio in circuital studies.
       </p>
 
       <button className="border border-white bg-surface text-white rounded-[20px] text-[14px] w-36 p-1 mt-4 self-start">
@@ -38,7 +38,7 @@ export default function MyStudio({ image }) {
     </div>
     <h3 className="text-base font-semibold mb-2 text-text">SOFTWARE DEVELOPER</h3>
     <p className="text-muted text-sm leading-tight">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque quod ducimus culpa enim. Lorem ipsum dolor.
+      I create software for fun have any cool idea do reach out for help or check my github to contribute.
     </p>
   </div>
 
@@ -53,6 +53,7 @@ export default function MyStudio({ image }) {
     </p>
   </div>
 </div>
+
 
 
 
