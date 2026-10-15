@@ -20,7 +20,7 @@ export default function OpengraphImage() {
       }}
     >
       <div style={{ fontSize: 32, color: "#4ade80", fontFamily: "monospace" }}>
-        ~/rudrakshh.live
+        ~/rudrakshsoni.vercel.app
       </div>
       <div style={{ fontSize: 88, fontWeight: 700, marginTop: 24 }}>
         {profile.fullName}

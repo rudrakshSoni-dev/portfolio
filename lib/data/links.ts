@@ -7,7 +7,7 @@ export type SocialLink = {
 };
 
 export const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://rudrakshh.live";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://rudrakshsoni.vercel.app";
 
 export const resumeHref = "/resume.pdf";
 export const email = "mrrssoni12@gmail.com";

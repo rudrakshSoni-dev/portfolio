@@ -4,7 +4,7 @@ Guidance for Claude Code when working in this repository. Read this file first, 
 
 ## Project
 
-Personal portfolio website for Rudraksh (rudrakshh.live). A single-page, dark, terminal-flavored developer portfolio: hero, about, GitHub activity heatmap, open source experience timeline, tech stack grid, booking CTAs, and a floating social dock.
+Personal portfolio website for Rudraksh (rudrakshsoni.vercel.app). A single-page, dark, terminal-flavored developer portfolio: hero, about, GitHub activity heatmap, open source experience timeline, tech stack grid, booking CTAs, and a floating social dock.
 
 Goal: look like a senior engineer's site. Fast, clean, restrained. No gimmicks, no template feel.
 
@@ -94,7 +94,7 @@ Environment variables (`.env.local`, never committed):
 ```
 GITHUB_TOKEN=
 GITHUB_USERNAME=rudrakshSoni-dev
-NEXT_PUBLIC_SITE_URL=https://rudrakshh.live
+NEXT_PUBLIC_SITE_URL=https://rudrakshsoni.vercel.app
 NEXT_PUBLIC_CAL_URL=  # booking link
 ```
 

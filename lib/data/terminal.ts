@@ -1,6 +1,6 @@
 export const shell = {
   user: "rudraksh",
-  host: "rudrakshh.live",
+  host: "rudrakshsoni",
 };
 
 export const sectionCommands = {

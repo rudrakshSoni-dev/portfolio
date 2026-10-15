@@ -63,7 +63,7 @@ Section headings carry a shell command label in mono above the H2: accent `$` th
 
 Terminal touches (the full set, do not add more):
 
-- Hero: a `rudraksh@rudrakshh.live:~$ whoami` prompt line above the H1, so the name reads as its output.
+- Hero: a `rudraksh@rudrakshsoni:~$ whoami` prompt line above the H1, so the name reads as its output.
 - Footer: an interactive shell (`components/terminal.tsx`) in a `bg-card` bordered box, no window chrome. Commands live in `lib/terminal/commands.ts` and only print data from `lib/data`. It never autofocuses on load.
 - Text selection uses the accent background.
 
